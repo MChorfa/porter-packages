@@ -24,6 +24,12 @@
     "URL": "https://github.com/deislabs/porter-cowsay/releases/download"
   },
   {
+    "name": "docker-compose",
+    "author": "Porter Authors",
+    "description": "A mixin for using the docker-compose cli",
+    "URL": "https://cdn.porter.sh/mixins/atom.xml"
+  },
+  {
     "name": "exec",
     "author": "Porter Authors",
     "description": "A mixin for executing shell commands",
@@ -46,6 +52,12 @@
     "author": "Ralph Squillace",
     "description": "A mixin for using the helm 3 cli",
     "URL": "https://github.com/squillace/porter-helm3/releases/download"
+  },
+  {
+    "name": "helm3",
+    "author": "Mohamed Chorfa",
+    "description": "Porter Helm3 Mixin",
+    "URL": "https://mchorfa.github.com/porter-helm3/atom.xml"
   },
   {
     "name": "packer",
